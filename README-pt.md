@@ -1,4 +1,5 @@
 # linux-dash (Beta)
+## For iSC Server
 
 Um painel de monitorização com baixa sobrecarga para máquinas GNU/Linux. Basta colocar no servidor e utilizar!
 
